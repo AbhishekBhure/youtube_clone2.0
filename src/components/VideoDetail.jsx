@@ -26,7 +26,7 @@ const VideoDetail = () => {
             <ReactPlayer
               url={`https://www.youtube.com/watch?v=${id}`}
               className="react-player"
-              controls
+              // controls
             />
           </Box>
         </Box>
